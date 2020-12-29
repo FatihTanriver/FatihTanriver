@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Fatih Tanriver and I'm software developer. I'm living in Frankfurt (Germany). You can find me on Twitter, or on LinkedIn.
+
+
 <!--
 **FatihTanriver/FatihTanriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
