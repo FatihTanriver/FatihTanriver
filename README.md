@@ -38,6 +38,10 @@ You can find me on Twitter, or on LinkedIn.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FatihTanriver&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fatih' GitHub Stats" />
 </a>
 
+<a href="https://github.com/FatihTanriver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FatihTanriver&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fatih' GitHub Stats" />
+</a>
+
 
 <!--
 **FatihTanriver/FatihTanriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
