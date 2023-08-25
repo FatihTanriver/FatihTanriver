@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Fatih Tanriver and I'm a software developer. I'm living in Frankfurt (Germany). 
+I am Fatih Tanriver and I'm a software developer. I'm living in Darmstadt (Germany). 
 
 ## 📬 Get in touch
 You can find me on Twitter, or on LinkedIn.
